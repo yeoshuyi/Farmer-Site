@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# Ignore the data file so it isn't pushed to GitHub
+saved_data.txt
+
+# Environment variables (if you ever add them)
+.env
